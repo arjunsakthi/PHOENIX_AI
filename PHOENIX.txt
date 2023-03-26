@@ -1,0 +1,22 @@
+PHOENIX
+
+Instruction manual (will take 1-2mins only)
+	Should install python.exe in pc
+	Should install modules stated in kavi.py comments 
+	before usage
+
+
+1.	Speak “whatsup” or “whatsapp “for opening whatsapp
+2.	Speak “mail” to open gmail
+3.	Speak  “open infinity” to get more interactive session like that of a human
+4.	Speak “search in chrome” to search anything in chrome
+5.	Speak “Wikipedia” to get access of the knowledge shared in Wikipedia
+6.	Speak “more about you” to get to know about the properties of phoenix
+7.	Speak “creator’s name” to get to know about developer of phoenix
+8.	Speak “play music” to play any random music installed in phoenix.
+9.	Speak “make a note” it will remember whatever you spoke and after that Speak 
+10.	“read the note” for reading the stored data .
+11.	Speak “shoot < name> “ to fire bullets on that person
+12.	Speak “self destruct” to self destruct your pc.
+13.	Speak “offline” to shut the program.
+
