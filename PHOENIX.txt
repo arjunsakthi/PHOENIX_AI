@@ -2,9 +2,15 @@ PHOENIX
 
 Instruction manual (will take 1-2mins only)
 	Should install python.exe in pc
-	Should install modules stated in kavi.py comments 
+	Should install modules stated in kavi.py comments
 	before usage
 
+       Note : It is possible that the API key uploaded in this code may not work 
+              in that case the open Infinity won't work .
+	      So in order to function it properly please go to chat-gpt website>then go to dashboard>then click on create API KEY and paste it in the
+	      code of kavi.py(you will see a commented note of API ,paste it there itself)
+	      
+Available Commands: 
 
 1.	Speak “whatsup” or “whatsapp “for opening whatsapp
 2.	Speak “mail” to open gmail
